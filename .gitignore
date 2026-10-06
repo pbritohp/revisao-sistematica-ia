@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Arquivos temporários do Word/Office
+~$*
+*.tmp
+
+# Arquivos de referência pessoais (plano com dados de contato, artigos com direitos autorais).
+# Mantém só a pasta no repositório. Remova estas linhas se quiser versionar seus arquivos.
+AI_import/Adicionar Arquivos de referencia/*
+!AI_import/Adicionar Arquivos de referencia/.gitkeep
